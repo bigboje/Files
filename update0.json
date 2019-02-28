@@ -1,0 +1,566 @@
+[
+  {
+    "Name": "1.fly",
+    "Size": 0,
+    "MD5": "D41D8CD98F00B204E9800998ECF8427E",
+    "Version": null
+  },
+  {
+    "Name": "AnselSDK64.dll",
+    "Size": 667664,
+    "MD5": "FF07F674A304E72FF710E6C60EAED0AC",
+    "Version": "1.5.396.0"
+  },
+  {
+    "Name": "bchmark.dll",
+    "Size": 3672576,
+    "MD5": "38FB46FB599C84127FB08EAEAA9C787B",
+    "Version": "1.0.0.7"
+  },
+  {
+    "Name": "Benchmark.exe",
+    "Size": 3687424,
+    "MD5": "1D2E21AA33B3FC2ACE6CEFE293A90586",
+    "Version": "1.0.0.7"
+  },
+  {
+    "Name": "BugTrap.dll",
+    "Size": 457728,
+    "MD5": "11BB52A47AEE5FD9DCDE58B581725DA2",
+    "Version": "1.3.3466.24114"
+  },
+  {
+    "Name": "CgSDK.x64_2015.dll",
+    "Size": 220880,
+    "MD5": "FDE85974C0F54C4E2AB885767A0A1BBC",
+    "Version": "3.0.175.0"
+  },
+  {
+    "Name": "content.vfx",
+    "Size": 9524912,
+    "MD5": "EC9CB204217A43BB70F5B72BD406B07F",
+    "Version": null
+  },
+  {
+    "Name": "content_03.vfs0",
+    "Size": 2146319821,
+    "MD5": "8EDFEAD44E16481C0929613B2383361A",
+    "Version": null
+  },
+  {
+    "Name": "content_03.vfs1",
+    "Size": 2145499836,
+    "MD5": "AF363667B67AEAD50D7683EB22A8BC8E",
+    "Version": null
+  },
+  {
+    "Name": "content_03.vfs2",
+    "Size": 816844159,
+    "MD5": "6FBE2955DC34AF5F7E3D42F64EF1D841",
+    "Version": null
+  },
+  {
+    "Name": "content_04.vfs0",
+    "Size": 2147233428,
+    "MD5": "83818AAD5D5BF9D4AB6F8EB93D217B2C",
+    "Version": null
+  },
+  {
+    "Name": "content_04.vfs1",
+    "Size": 2147366065,
+    "MD5": "946D2C9EA6AA5811A25CB7F86D357344",
+    "Version": null
+  },
+  {
+    "Name": "content_04.vfs2",
+    "Size": 2147016611,
+    "MD5": "46CB0777FF6E9E4C59CD5BF9CB9A3B8D",
+    "Version": null
+  },
+  {
+    "Name": "content_04.vfs3",
+    "Size": 590771986,
+    "MD5": "F04A64E3ADAB2EBEB4E7E772EC390B82",
+    "Version": null
+  },
+  {
+    "Name": "content_05_sounds_us.vfs0",
+    "Size": 625774093,
+    "MD5": "18C3BB2BF70F672503D98286EDE27B6C",
+    "Version": null
+  },
+  {
+    "Name": "content_06_sounds_ru.vfs0",
+    "Size": 626767757,
+    "MD5": "FA7696F810EC86B7EE2C1641E7164BC5",
+    "Version": null
+  },
+  {
+    "Name": "content_07_sounds_de.vfs0",
+    "Size": 648529913,
+    "MD5": "7EFB9B28E868409F375C21331A77F188",
+    "Version": null
+  },
+  {
+    "Name": "content_08_sounds_es.vfs0",
+    "Size": 618448501,
+    "MD5": "6B0AFF5775178364981B582062A525D9",
+    "Version": null
+  },
+  {
+    "Name": "content_09_sounds_fr.vfs0",
+    "Size": 583249877,
+    "MD5": "8148C4330C17C4C6D6D9E6FC7672CDBB",
+    "Version": null
+  },
+  {
+    "Name": "content_10_sounds_it.vfs0",
+    "Size": 645964259,
+    "MD5": "F04B71C692771878ED1237FD05C48625",
+    "Version": null
+  },
+  {
+    "Name": "content_11_textures.vfs0",
+    "Size": 719746395,
+    "MD5": "76A24BBE874975E8C3932832779398BB",
+    "Version": null
+  },
+  {
+    "Name": "content_12_textures.vfs0",
+    "Size": 719464701,
+    "MD5": "3248363A539D06E5B9B81745CD2F0DE6",
+    "Version": null
+  },
+  {
+    "Name": "content_13_textures.vfs0",
+    "Size": 717300111,
+    "MD5": "C46D9FF6710A7870E2306FA7ECB98E8F",
+    "Version": null
+  },
+  {
+    "Name": "content_14_textures.vfs0",
+    "Size": 718838144,
+    "MD5": "F8B5E2F2E4FDFD371711658AD026D027",
+    "Version": null
+  },
+  {
+    "Name": "content_15_textures.vfs0",
+    "Size": 719735953,
+    "MD5": "E7BEE08E74BEE7838688ACE3CC61E34D",
+    "Version": null
+  },
+  {
+    "Name": "content_16_textures.vfs0",
+    "Size": 718047063,
+    "MD5": "9048AF292513DF95313CA1DFA415F94A",
+    "Version": null
+  },
+  {
+    "Name": "content_17_textures.vfs0",
+    "Size": 717515433,
+    "MD5": "D42857D7787495AA7A4ABB5C94063BBB",
+    "Version": null
+  },
+  {
+    "Name": "content_18_textures.vfs0",
+    "Size": 719014552,
+    "MD5": "29CB5713DF1335B131F1B46AB6B6ADBB",
+    "Version": null
+  },
+  {
+    "Name": "content_19_textures.vfs0",
+    "Size": 721165535,
+    "MD5": "3A0EDFEA42DF5510490BC8AB6D9018D2",
+    "Version": null
+  },
+  {
+    "Name": "content_20_textures.vfs0",
+    "Size": 721370391,
+    "MD5": "2090F142601C826CB19055501E7E7004",
+    "Version": null
+  },
+  {
+    "Name": "content_21_textures.vfs0",
+    "Size": 718576433,
+    "MD5": "0935EDC828D1E64288F5BD8A57C4673F",
+    "Version": null
+  },
+  {
+    "Name": "content_22_textures.vfs0",
+    "Size": 720283859,
+    "MD5": "C09B622812167FB765E26D16473E9415",
+    "Version": null
+  },
+  {
+    "Name": "content_23_textures.vfs0",
+    "Size": 718764831,
+    "MD5": "0DE12747BC31ACD819045E10FC0649B1",
+    "Version": null
+  },
+  {
+    "Name": "content_24_textures.vfs0",
+    "Size": 717925939,
+    "MD5": "BB622BBAAE672D51984C87CABE75D3DE",
+    "Version": null
+  },
+  {
+    "Name": "content_25_textures.vfs0",
+    "Size": 718467138,
+    "MD5": "E67BABAA4A27DE867A35E1FAD1CAD285",
+    "Version": null
+  },
+  {
+    "Name": "content_26_textures.vfs0",
+    "Size": 719711360,
+    "MD5": "4F36DCC89E8548FE1424C81458CD5A14",
+    "Version": null
+  },
+  {
+    "Name": "content_27_textures.vfs0",
+    "Size": 717701454,
+    "MD5": "7477BDAB057538E63675DB230169E1F8",
+    "Version": null
+  },
+  {
+    "Name": "content_28_textures.vfs0",
+    "Size": 718685149,
+    "MD5": "EC07048AAE5B6122510816F52AC22FF2",
+    "Version": null
+  },
+  {
+    "Name": "content_29_textures.vfs0",
+    "Size": 720381121,
+    "MD5": "4454BDCF91425CE211F7EA90F11E8600",
+    "Version": null
+  },
+  {
+    "Name": "content_30_textures.vfs0",
+    "Size": 718133522,
+    "MD5": "7328A38FB30C0397F23AE8FABABBD66F",
+    "Version": null
+  },
+  {
+    "Name": "content_31_textures.vfs0",
+    "Size": 717501101,
+    "MD5": "871F8E0F26121980C2AB5DAFAC3BC0C3",
+    "Version": null
+  },
+  {
+    "Name": "content_32_textures.vfs0",
+    "Size": 718289309,
+    "MD5": "BEFA779136DABF3E9B012E0C15E20619",
+    "Version": null
+  },
+  {
+    "Name": "content_33_textures.vfs0",
+    "Size": 717369823,
+    "MD5": "DC812D03B69F9EEE51BE37C283E04616",
+    "Version": null
+  },
+  {
+    "Name": "content_34_textures.vfs0",
+    "Size": 717916310,
+    "MD5": "F54345DC4B89AFA0EF4C401DF86D4241",
+    "Version": null
+  },
+  {
+    "Name": "content_35_textures.vfs0",
+    "Size": 719088435,
+    "MD5": "0916C372966FCC3210CD5FBEA5A3DC84",
+    "Version": null
+  },
+  {
+    "Name": "content_36_textures.vfs0",
+    "Size": 720654174,
+    "MD5": "F968DBE2B315FF6ECE0C1106C24D0320",
+    "Version": null
+  },
+  {
+    "Name": "content_37_textures.vfs0",
+    "Size": 718121996,
+    "MD5": "7CBDF4EC5E4F1397F47F4CF4FCF5B34B",
+    "Version": null
+  },
+  {
+    "Name": "content_38_textures.vfs0",
+    "Size": 719705309,
+    "MD5": "A45054F59B81ACC8240C04F914D226C7",
+    "Version": null
+  },
+  {
+    "Name": "content_39_textures.vfs0",
+    "Size": 717430033,
+    "MD5": "A1A411E3B0E5C20CD936EC62AAE20D40",
+    "Version": null
+  },
+  {
+    "Name": "content_40_textures.vfs0",
+    "Size": 720206167,
+    "MD5": "01A04266ECBBF1BCD6C62ED071F91CD2",
+    "Version": null
+  },
+  {
+    "Name": "content_41_textures.vfs0",
+    "Size": 683679101,
+    "MD5": "F3F411A706FCA67F9783129112A3B688",
+    "Version": null
+  },
+  {
+    "Name": "content_42.vfs0",
+    "Size": 709015653,
+    "MD5": "A5385383B7CF12884CF4D78FB444B42B",
+    "Version": null
+  },
+  {
+    "Name": "content_43.vfs0",
+    "Size": 2146966133,
+    "MD5": "34431B5A0F6B05DB5E3FA1BB810D2389",
+    "Version": null
+  },
+  {
+    "Name": "content_43.vfs1",
+    "Size": 991143475,
+    "MD5": "22D21F06717668B70A509D87D956306D",
+    "Version": null
+  },
+  {
+    "Name": "content_44.vfs0",
+    "Size": 425453703,
+    "MD5": "C0403082B1F1F5E6D14B4D3B6CB7946A",
+    "Version": null
+  },
+  {
+    "Name": "content_45.vfs0",
+    "Size": 847852943,
+    "MD5": "BC8F4413A61461171CC051BF4362B724",
+    "Version": null
+  },
+  {
+    "Name": "content_46.vfs0",
+    "Size": 1887680177,
+    "MD5": "003E4DCFB8EF10DC62BDB6B40E73B190",
+    "Version": null
+  },
+  {
+    "Name": "content_47.vfs0",
+    "Size": 222610182,
+    "MD5": "31AED906815D67017FE4767D6C7C8CBE",
+    "Version": null
+  },
+  {
+    "Name": "content_48.vfs0",
+    "Size": 192669730,
+    "MD5": "17411FD41C30FEC6AA59362B3EAD71C6",
+    "Version": null
+  },
+  {
+    "Name": "content_49.vfs0",
+    "Size": 1292892105,
+    "MD5": "6502CEB59DD313C699836FEA054F5CA3",
+    "Version": null
+  },
+  {
+    "Name": "content_50.vfs0",
+    "Size": 954594102,
+    "MD5": "67DD25C73567C477C63B5DC9860B0DA0",
+    "Version": null
+  },
+  {
+    "Name": "content_51.vfs0",
+    "Size": 215530308,
+    "MD5": "BCE7D57AEE5D09B32AB095379A942FA5",
+    "Version": null
+  },
+  {
+    "Name": "content_platform.vfs0",
+    "Size": 499018090,
+    "MD5": "A0DFC30EF0F705D67288D7A5A0E7BE8B",
+    "Version": null
+  },
+  {
+    "Name": "content_ui_textures.vfs0",
+    "Size": 83671136,
+    "MD5": "0B44B74CBDFDE6694891483599D21B78",
+    "Version": null
+  },
+  {
+    "Name": "CUESDK.x64_2015.dll",
+    "Size": 219856,
+    "MD5": "E65DD8AB288BEEB3D3ADA9BF673EDF49",
+    "Version": "2.4.67.0"
+  },
+  {
+    "Name": "D3DCompiler_46.dll",
+    "Size": 3873224,
+    "MD5": "83F729257D218BB1AB9E1D81A9862D57",
+    "Version": "9.30.9200.16384"
+  },
+  {
+    "Name": "d3dcompiler_47.dll",
+    "Size": 4346120,
+    "MD5": "3609ABBD2D61FC1D95B825F4836C612D",
+    "Version": "10.0.17134.12 (WinBuild.160101.0800)"
+  },
+  {
+    "Name": "dxcompiler.dll",
+    "Size": 12380688,
+    "MD5": "A79E70A05626CD1D8D1508760161897D",
+    "Version": "10.0.17763.1 (WinBuild.160101.0800)"
+  },
+  {
+    "Name": "dxil.dll",
+    "Size": 1097744,
+    "MD5": "0520AAAF7997C0E5D175E17D251FE2C2",
+    "Version": "10.0.17763.1 (WinBuild.160101.0800)"
+  },
+  {
+    "Name": "GFeSDK.dll",
+    "Size": 4228392,
+    "MD5": "E5AF053A166FAD506A4498E1D785D89E",
+    "Version": "\u0001\u0001É"
+  },
+  {
+    "Name": "MetroExodus.exe",
+    "Size": 328546304,
+    "MD5": "810D30F4E11BB047024261719AAB1186",
+    "Version": "1.0.0.0"
+  },
+  {
+    "Name": "MetroExodus_Artbook_DoublePages.pdf",
+    "Size": 54189804,
+    "MD5": "9AE7D8A9EC62CC64E7F57EBBC18A698B",
+    "Version": null
+  },
+  {
+    "Name": "Newtonsoft.Json.dll",
+    "Size": 662528,
+    "MD5": "5AFDA7C7D4F7085E744C2E7599279DB3",
+    "Version": "11.0.2.21924"
+  },
+  {
+    "Name": "NvHairWorksDx11.win64.dll",
+    "Size": 2261504,
+    "MD5": "FA5F51EB402FDD68BDBF2DA4CE4FB54F",
+    "Version": "1.3.0.0"
+  },
+  {
+    "Name": "NvHairWorksDx12.win64.dll",
+    "Size": 2149888,
+    "MD5": "801EC1D6BD113CFF59B2D2F91BBAFE8E",
+    "Version": "1.3.0.0"
+  },
+  {
+    "Name": "nvngx_dlisp.dll",
+    "Size": 584816,
+    "MD5": "1A993AAC17865322C9D48EAB438E77F5",
+    "Version": "1,0,9,0"
+  },
+  {
+    "Name": "nvngx_dlss.dll",
+    "Size": 4502400,
+    "MD5": "41878C22B109427192788DD4FCE796C1",
+    "Version": "1,0,11,0"
+  },
+  {
+    "Name": "patch.vfx0",
+    "Size": 620,
+    "MD5": "7C0267E5A476BF7EB0E4ADBB78F49059",
+    "Version": null
+  },
+  {
+    "Name": "patch_00.vfs0",
+    "Size": 5625151,
+    "MD5": "E75BBE205BC72A0F23328919BA8B379D",
+    "Version": null
+  },
+  {
+    "Name": "patch_00.vfx",
+    "Size": 186,
+    "MD5": "418085405C42F948A1ACD14B37DC495A",
+    "Version": null
+  },
+  {
+    "Name": "patch_01.vfs0",
+    "Size": 2142584864,
+    "MD5": "FCCAD8BCF2ADF173223A39DB60A40DB3",
+    "Version": null
+  },
+  {
+    "Name": "patch_01.vfs1",
+    "Size": 1229642963,
+    "MD5": "B4EB64116B1F13B6CDE2C8323392DFDA",
+    "Version": null
+  },
+  {
+    "Name": "patch_01.vfx",
+    "Size": 267738,
+    "MD5": "0C42CD38C851C555D23B521E1BD45B85",
+    "Version": null
+  },
+  {
+    "Name": "patch_01_shared.vfs0",
+    "Size": 1528742765,
+    "MD5": "AD019A83E5514B8DE0C3D1F71030D910",
+    "Version": null
+  },
+  {
+    "Name": "patch_01_shared.vfx",
+    "Size": 2157326,
+    "MD5": "79FB7387995D91BEC8055ABBD256634B",
+    "Version": null
+  },
+  {
+    "Name": "PhysX3Common_x64.dll",
+    "Size": 1600000,
+    "MD5": "6019D1A61CD7733EF412DEABCFE1C664",
+    "Version": "3.4.0.0"
+  },
+  {
+    "Name": "PhysX3Cooking_x64.dll",
+    "Size": 247808,
+    "MD5": "3B3A04B3DFB8015AC899E50EE725F562",
+    "Version": "3.4.0.0"
+  },
+  {
+    "Name": "PhysX3_x64.dll",
+    "Size": 2079232,
+    "MD5": "B5567B956A5E0D52FF7D02A89BD75DA9",
+    "Version": "3.4.0.0"
+  },
+  {
+    "Name": "PxFoundation_x64.dll",
+    "Size": 54272,
+    "MD5": "38D9AB993041111AC0EB0488E16F6788",
+    "Version": "1.0.0.0"
+  },
+  {
+    "Name": "sku_cfg.bin",
+    "Size": 1197,
+    "MD5": "44B175C89073CBD608019D5A363D2D22",
+    "Version": null
+  },
+  {
+    "Name": "telemetry.dll",
+    "Size": 578048,
+    "MD5": "5B5D24C5FB0906A27D6FCEC0D1C11318",
+    "Version": null
+  },
+  {
+    "Name": "typed_strings.bin",
+    "Size": 1809589,
+    "MD5": "C929B9363ABD643022BBD3F854A65BD5",
+    "Version": null
+  },
+  {
+    "Name": "unins000.dat",
+    "Size": 23701,
+    "MD5": "334955BD9EF833FA19118D513984921C",
+    "Version": null
+  },
+  {
+    "Name": "unins000.exe",
+    "Size": 1546961,
+    "MD5": "1DD10377149EFA91B450EE6F132ADCD7",
+    "Version": "51.1052.0.0"
+  }
+]
